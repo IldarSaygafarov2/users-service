@@ -1,4 +1,4 @@
-# Django Test App
+# Users-service
 
 
 ## Installation
